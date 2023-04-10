@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=1380&t=st=1681122577~exp=1681123177~hmac=ce60da577c51818c349bf6840bb579ac2f87f624c64d074749c73d49b0833d3c)]
+![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=1380&t=st=1681122577~exp=1681123177~hmac=ce60da577c51818c349bf6840bb579ac2f87f624c64d074749c73d49b0833d3c)
 
 <h1 align="center">Hi 👋, I'm Aniket Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
